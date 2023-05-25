@@ -6,10 +6,11 @@ Hi! :wave:
 ## 1. PNG-G [easy, steganography] - 50 points
 
 ### Don't let appearances fool you. Good luck!
-### Format : Hero{}
-### Author : Thibz
+Format : Hero{}
+Author : Thibz
 
 Here is the image for this challenge --
+
 ![pngg](https://github.com/cosmoshivani/Hero-CTF-2023/assets/47838688/54ecc13e-71f1-4aa2-bd78-b8f41e4c848f)
 
 :thought_balloon: 
